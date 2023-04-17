@@ -3,13 +3,14 @@ body{
     background-color: aquamarine;
 }
 table {
-  border-collapse: collapse;
+  background-color: white;
+  border: 4px solid black;
   width: 100%;
   margin-bottom: 20px;
 }
 
 th, td {
-    backgorund-color: blue;
+  border: 4px solid black;
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #ddd;
